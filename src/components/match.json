@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/english-bulldog-detail.jpg?bust=1535565637&width=355",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI4My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYyMTg4NjAzNX0.HjKwRpwrosUm7jum2OT1EDR37OSNWZLq4gPkfrF0UBM/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "./assets/images/carter.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDMwOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYyNTMxMTA0Nn0.WuVxIalBJL6-ripW1fPrCNAPHnivlztAtbchYrHqFA0/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "./assets/images/crosby.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sidney_Crosby_2013-02-02.JPG",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "./assets/images/foligno.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI4MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTYxMTAwMjAzN30.2yinsUy984Hsjn6SBHRjYcPFqjzIHcIM7F5wTAUDIA0/img.png?width=980",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "./assets/images/green.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTU5Mjc5MDI5N30.9Z9TlnNqU8l08rSQ49ks4lY9JmB2nW2VGD3ufyKn1mE/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "./assets/images/letang.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI3My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY0MzI0NzcxOH0.sF6mcrQlqrZAjxsF9dANlLUwvmksPhB3XCHmFbud7NA/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "./assets/images/lundqvist.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI3MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYyMDYwMjEwNX0.BK5139TYOypZVFYxFr35BmgBKCMXaI8XN8tS9700FX4/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "./assets/images/oshie.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI1NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTU5NTc2MDg0NX0.mcA4a4t27-nYMDbf2Fz-Xc-SDSXTQ_qJv9jUCQ_GpKM/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "./assets/images/seabrook.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI1Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYzMjc2NDk5NH0.DiDpxeJx6h_zpVwi8JHastRUimEgbQG7IQzy-TEiWvE/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "./assets/images/sequin.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDI0NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxMTU0OTc2OH0.aW3ekH3QdL2_dmtkgvX6mexMkWPn-BNKtIhpf04bXlA/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "./assets/images/wennberg.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDIzNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYyODY1NDYwOH0.mVoG0y9WbTEe7xmCE1U39WEC4M-G3wxKOGEHtG1Mx1A/img.jpg?width=980",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "./assets/images/zetterberg.jpg",
+    "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNDYwNDIyNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYzNjQxMzE5NH0.xqLZrzH0EdGcH8t35To-wNySbg9Uy6224FgD_0kjNlk/img.jpg?width=980",
     "clicked": false
   }
 ]

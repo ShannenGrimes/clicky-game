@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shannengrimes.github.io/clicky-game",
+  "homepage": "https://shannengrimes.github.io/clicky-game/",
   "name": "gh-pages",
   "version": "0.1.0",
   "private": true,
@@ -35,9 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0",
-    "react-vt": "^0.1.1"
   }
+
 }

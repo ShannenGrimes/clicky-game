@@ -1,12 +1,14 @@
 {
-  "Homepage": "https://shannengrimes.github.io/clicky-game/",
-  "name": "clicky-game",
+  "homepage": "https://shannengrimes.github.io/clicky-game",
+  "name": "gh-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "env-cmd": "^10.1.0",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
@@ -35,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "react-vt": "^0.1.1"
   }
 }

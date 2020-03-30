@@ -1,9 +1,11 @@
 import React, { Component } from "react";
+import reactVT from 'react-vt';
 import MatchCard from "./components/MatchCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import matches from "./match.json";
+import matches from "./components/match.json";
 import "./App.css";
+// import Readme from './readme'
 
 let correctGuesses = 0;
 let bestScore = 0;
@@ -11,6 +13,10 @@ let clickMessage =
   "Click on a hockey player to gain points! Click on the same one twice and you lose!";
 
 class App extends Component {
+  // ReactVT Component for testing
+  componentWillMount() {
+    reactVT(React, this);
+  }
   // This will look for a match in the match.json file
   state = {
     matches,
